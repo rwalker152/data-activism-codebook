@@ -9,7 +9,9 @@ This site  contains all of the tables of inductive codes corresponding to each p
   <title>Data Activism Codebook</title>
 </head>
 <body>
+  
   <h1>Data Activism Codebook Charts</h1>
+  ![Table 4: Haven](codebook- agency and creation.pdf.png)
 <h2>Table 4: Haven</h2>
 <img src="codebook- agency and creation.pdf" alt="Table 4: Haven" width="100%">
   <h2>Table 4: Haven</h2>
