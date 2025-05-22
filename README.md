@@ -4,7 +4,7 @@ This site  contains all of the tables of inductive codes corresponding to each p
 
 <!DOCTYPE html>
 <html>
-<head>
+<head>jk
   <meta charset="UTF-8">
   <title>Data Activism Codebook</title>
 </head>
