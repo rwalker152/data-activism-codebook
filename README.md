@@ -11,7 +11,7 @@ This site  contains all of the tables of inductive codes corresponding to each p
 <body>
   
   <h1>Data Activism Codebook Charts</h1>
-
+![Codebook: Haven](codebook_haven.png)
   ![Table 4: Haven](https://github.com/rwalker152/data-activism-codebook/raw/main/agency_creation.png)
 <h2>Table 4: Haven</h2>
 <img src="codebook- agency and creation.pdf" alt="Table 4: Haven" width="100%">
